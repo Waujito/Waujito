@@ -9,6 +9,8 @@ A bot for messengers that allows you to moderate chat very easily.
 
 I'm currently learning programming languages such as Python, PHP(with Laravel), JavaScript(with Vue.js).
 
+You can find out more about me on my personal website: https://waujito.github.io/
+
 You can reach me via my telegram: [@waujito](https://t.me/waujito) or email: [vetrovvd@yandex.ru](mailto:vetrovvd@yandex.ru)
 
 ### Thank you!
