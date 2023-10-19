@@ -35,7 +35,7 @@ using vi = vl;
 #endif
 #else
 const int MOD = 1e9 + 7;
-const int INF = INT32_MAX;
+const int INF = INT32_MAX - 1;
 #endif
 
 void solve() {}
