@@ -29,9 +29,9 @@ const ll INF = INT64_MAX - 1;
 #ifdef FORCE_LONG
 #define int ll
 #define double ld
-using db = ld;
-using pi = pl;
-using vi = vl;
+#define db ld
+#define pi pl
+#define vi vl
 #endif
 #else
 const int MOD = 1e9 + 7;
