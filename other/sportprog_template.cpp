@@ -11,8 +11,8 @@ using db = double;
 using pi = pair<int, int>;
 using pl = pair<ll, ll>;
 #define mp make_pair
-#define f first
-#define s second
+#define F first
+#define S second
 
 // vectors
 using vi = vector<int>;
