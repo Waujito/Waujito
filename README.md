@@ -9,7 +9,7 @@ Check up my github repositories if you want to find out more about my stack.
 You can reach me via my telegram: [@waujito](https://t.me/waujito) or email: [vetrovvd@gmail.com](mailto:vetrovvd@gmail.com)
 
 Buy me a coffee:
-- DonationAlerts: https://www.donationalerts.com/r/waujito
+- DonationAlerts: Nothing here yet
 - TON: `UQCooIDt7Iyewr8i4h_sOuUpinqMd-sOkVFOqbFPM5M358Mr`
 - SOL: `2214K9py9ZWhmioV7G2RrMQb1K235yrXfWVDv2hGv1N7`
 
