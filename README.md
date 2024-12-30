@@ -11,6 +11,6 @@ You can reach me via my telegram: [@waujito](https://t.me/waujito) or email: [ve
 Buy me a coffee:
 - TON: `UQCooIDt7Iyewr8i4h_sOuUpinqMd-sOkVFOqbFPM5M358Mr`
 - SOL: `2214K9py9ZWhmioV7G2RrMQb1K235yrXfWVDv2hGv1N7`
-- USDT (TRC20): TXLmKAyGDA28Bhxx8KDD33ffug5cYhRM7M
+- USDT (TRC20): `TXLmKAyGDA28Bhxx8KDD33ffug5cYhRM7M`
 
 I am looking forward for new opportunities and internships!
