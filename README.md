@@ -2,7 +2,7 @@
 
 My name is Vetrov Vadim and I am a programmer :) 
 
-Currently I identify myself primarily as a backend developer. It is too interesting for me to build complicated services and maintain them.
+Currently I identify myself primarily as a backend developer. It is too interesting for me to build complicated services and maintain them. 
 I have been working with such modern computer science tools as C/C++, Linux, Docker, Python. Also I have a little bit experience with TypeScript (Vue.js) and Java (Spring Boot).
 
 Check up my github repositories if you want to find out more about my stack.
